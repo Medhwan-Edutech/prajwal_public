@@ -1,1 +1,45 @@
-...
+Effective Date: 22 October 2024
+
+This Privacy Policy outlines how Prajjwal collects, uses, and protects your personal information. It is an integral part of 
+our Terms of Use. We don't share your data or personal information to any other third party app. By using Prajjwal, 
+you consent to the practices described in this policy.
+
+
+Information We Collect
+We may collect the following types of personal information:   
+Account Information: Information you provide when you create an account, such as your name, email address, phone number, school 
+name and password.
+Usage Data: Information about how you use our app, including your IP address, device type, operating system, and browsing history.
+
+
+How We Use Your Information
+We may use your personal information for the following purposes:
+To provide and maintain our app.
+To personalize your experience and provide tailored content.   
+To communicate with you about our app, including updates, promotions, and support.
+To analyze and improve our app's performance.
+To protect against fraud and abuse.
+
+
+Sharing Your Information
+We don't share your personal information with any third-party service providers. We may share your personal information to law 
+enforcement authorities or other legal entities as required by law.
+
+
+Data Security
+We implement reasonable security measures to protect your personal information from unauthorized access, disclosure, alteration, 
+and destruction. However, no method of transmission over the internet or electronic storage is completely secure.   
+
+
+Your Rights
+You have certain rights regarding your personal information, such as the right to access, correct, or delete your information.    
+
+
+Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of any significant changes by posting the updated 
+policy on our website or within the app. Your continued use of the app after any changes indicates your acceptance of the 
+new terms.
+
+
+Contact Us
+If you have any questions about this Privacy Policy, please contact us at info.prajjwal@gmail.com.

@@ -16,7 +16,7 @@ To access the app, you must need to create an account. You agree to provide accu
 registration process and to update your account information as necessary. If you suspect any unauthorized use of your account, 
 you must notify us immediately.
 
-## 4. Use of the App
+4. Use of the App
 - You agree to use Prajjwal only for educational purposes and in accordance with these terms.
 - You must not use the app:
   - In any way that violates any applicable federal, state, local, or international law or regulation.
