@@ -3,7 +3,7 @@ Welcome to Prajjwal - Your Enlightening Partner!
 We are an AI based education platform developed by Medhwan EduTech, a company dedicated to creating impactful, excellent and 
 accessible learning. Our mission is to enlight future of each student  learners with high-quality content and tools that make learning enjoyable and effective.  
 
-At Medhwan EduTech, we believe education should be personalized, engaging, and within everyone’s reach. With the [App Name], we offer:  
+At Medhwan EduTech, we believe education should be personalized, engaging, and within everyone’s reach. With the Prajjwal, we offer:  
 
 - **Interactive Courses**: Learn through a variety of engaging lessons and quizzes, designed to help you understand concepts easily.  
 - **Progress Tracking**: Keep track of your achievements and growth to stay motivated and focused on your goals.  
