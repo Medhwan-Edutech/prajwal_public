@@ -7,8 +7,7 @@ you consent to the practices described in this policy.
 
 Information We Collect
 We may collect the following types of personal information:   
-Account Information: Information you provide when you create an account, such as your name, email address, phone number, school 
-name and password.
+Account Information: Information you provide when you create an account, such as your name, email address, phone number and password.
 Usage Data: Information about how you use our app, including your IP address, device type, operating system, and browsing history.
 
 
@@ -42,4 +41,4 @@ new terms.
 
 
 Contact Us
-If you have any questions about this Privacy Policy, please contact us at info.prajjwal@gmail.com.
+If you have any questions about this Privacy Policy, please contact us at contact.medhwan@gmail.com
