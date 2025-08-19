@@ -26,7 +26,7 @@ you must notify us immediately.
 
 5. Intellectual Property
 - All content, features, and functionality of the app, including but not limited to text, graphics, logos, and software, are the
-exclusive property of Medhwan EduTech or its licensors and are protected by copyright, trademark, and other intellectual 
+exclusive property of Medhwan Edutech or its licensors and are protected by copyright, trademark, and other intellectual 
 property laws.
 - You are granted a limited, non-exclusive, non-transferable license to use the app for personal, non-commercial use, 
 subject to these terms.
@@ -38,11 +38,11 @@ secure, or error-free.
 fitness for a particular purpose, and non-infringement.
 
 7. Limitation of Liability
-To the fullest extent permitted by law, Medhwan EduTech shall not be liable for any indirect, incidental, special, 
+To the fullest extent permitted by law, Medhwan Edutech shall not be liable for any indirect, incidental, special, 
 consequential, or punitive damages arising out of or related to your use of the app.
 
 8. Indemnification
-You agree to indemnify, defend, and hold harmless to Medhwan EduTech, its affiliates, and their respective officers, directors, 
+You agree to indemnify, defend, and hold harmless to Medhwan Edutech, its affiliates, and their respective officers, directors, 
 employees, and agents from and against any claims, damages, losses, liabilities, and expenses (including reasonable attorneys’ 
 fees) arising out of or related to your use of the app or violation of these terms.
 
@@ -51,4 +51,4 @@ These Terms and Conditions shall be governed by and construed in accordance with
 conflict of law principles.
 
 10. Contact Information
-If you have any questions about these Terms and Conditions, please contact us at info.prajjwal@gmail.com
+If you have any questions about these Terms and Conditions, please contact us at contact.medhwan@gmail.com
